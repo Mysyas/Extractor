@@ -1,0 +1,2 @@
+2025-08-15 23:33:07,922 - WARNING : Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2025-08-15 23:33:07,928 - ERROR : ee.Initialize: no project found. Call with project= or see http://goo.gle/ee-auth.
